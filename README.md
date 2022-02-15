@@ -1,5 +1,5 @@
 # Big-Data_Visualization-Project
-<strong>Coventry University Project (2nd year)</strong?
+<strong>Coventry University Project (2nd year)</strong>
 <br>
 <br>
 Visualization Project for 5011CEM
